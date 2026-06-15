@@ -116,20 +116,7 @@ The application supports:
 * CSV (.csv)
 * JSON (.json)
 
-## Download Executable (Recommended)
 
-If you do not want to install Python or any dependencies, download the latest executable from the Releases section.
-
-Steps:
-
-1. Open the Releases page.
-2. Download the latest `ID_Passport_Extractor.exe`.
-3. Double-click the file to launch the application.
-4. Upload a CNIC or Passport image.
-5. Click **Extract Fields**.
-6. Export the extracted data if needed.
-
-No Python installation is required.
 
 ## Future Improvements
 
