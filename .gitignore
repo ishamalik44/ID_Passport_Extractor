@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+exports/*.xlsx
+exports/*.csv
+exports/*.json
+
+venv/
+.env
+
+dist/
+build/
+*.spec
